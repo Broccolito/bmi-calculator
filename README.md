@@ -1,4 +1,6 @@
-# BMI Calculator Shiny App
+# BMI Calculator
+
+Author: Wanjun Gu
 
 ## Overview
 
